@@ -98,9 +98,3 @@ currentStreak = 3
 
 
 ---
-
-## After you commit this file
-Reply: **“streak engine added”**
-
-Then I’ll guide you to the next core algorithm:
-👉 **Momentum Score Engine (0–100)** (this becomes your “motivation loop”).
