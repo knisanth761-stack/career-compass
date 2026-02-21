@@ -1,0 +1,54 @@
+[
+  {
+    "companyId": "tcs",
+    "companyName": "TCS Digital",
+    "tier": "SERVICE",
+    "requirements": {
+      "minProblems": 50,
+      "minTopics": ["Arrays", "Strings", "Basic Math"],
+      "minProjects": 1,
+      "minMomentumScore": 40,
+      "coreCSRequired": false
+    },
+    "notes": "Focus on basics and aptitude preparation."
+  },
+  {
+    "companyId": "zoho",
+    "companyName": "Zoho",
+    "tier": "MID_PRODUCT",
+    "requirements": {
+      "minProblems": 200,
+      "minTopics": ["Arrays", "Two Pointers", "Sliding Window", "Binary Search"],
+      "minProjects": 2,
+      "minMomentumScore": 60,
+      "coreCSRequired": false
+    },
+    "notes": "Strong problem-solving and coding rounds."
+  },
+  {
+    "companyId": "freshworks",
+    "companyName": "Freshworks",
+    "tier": "STRONG_PRODUCT",
+    "requirements": {
+      "minProblems": 350,
+      "minTopics": ["Trees", "Graphs", "Dynamic Programming"],
+      "minProjects": 2,
+      "minMomentumScore": 70,
+      "coreCSRequired": true
+    },
+    "notes": "Expect DSA depth and system basics."
+  },
+  {
+    "companyId": "amazon",
+    "companyName": "Amazon",
+    "tier": "ELITE",
+    "requirements": {
+      "minProblems": 600,
+      "minTopics": ["Advanced Trees", "Graphs", "Dynamic Programming"],
+      "minProjects": 3,
+      "minMomentumScore": 85,
+      "coreCSRequired": true
+    },
+    "notes": "High DSA mastery and strong fundamentals required."
+  }
+]
